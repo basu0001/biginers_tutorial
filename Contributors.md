@@ -122,6 +122,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Syeda Neha](https://github.com/syedaCodes)
 - [sybiljasmine](https://github.com/sybiljasmine)
 - [Santiago Garcia](https://github.com/santitigaga)
+- [Sanchi]
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
 - [Stacy Meichle](https://github.com/smeichle)
 - [Brendan Musick](https://github.com/B-Musick)
